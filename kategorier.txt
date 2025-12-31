@@ -1,0 +1,29 @@
+Kategori 1
+Nivå 1 -
+Nivå 2 - Dagens Timeguessr
+Nivå 3 - Ubongo
+Nivå 4 -
+
+Kategori 2
+Nivå 1
+Nivå 2
+Nivå 3
+Nivå 4
+
+Kategori 3
+Nivå 1
+Nivå 2
+Nivå 3
+Nivå 4
+
+Kategori 4 - Per
+Nivå 1
+Nivå 2
+Nivå 3
+Nivå 4
+
+Kategori 5 - Per
+Nivå 1
+Nivå 2
+Nivå 3
+Nivå 4

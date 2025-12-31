@@ -1,0 +1,51 @@
+{
+    "categories": [
+        {
+            "name": "New Year Traditions",
+            "questions": [
+                { "points": 10, "text": "What do people traditionally do at midnight on New Year's Eve?" },
+                { "points": 20, "text": "Activity: Share your favorite New Year's tradition with the group" },
+                { "points": 30, "text": "Which country is famous for eating 12 grapes at midnight?" },
+                { "points": 40, "text": "Activity: Everyone must do a New Year's dance move!" }
+            ]
+        },
+        {
+            "name": "2024 Highlights",
+            "questions": [
+                { "points": 10, "text": "Activity: Share your biggest achievement from 2024" },
+                { "points": 20, "text": "What was the most memorable moment of 2024 for you?" },
+                { "points": 30, "text": "Activity: Tell a funny story from 2024" },
+                { "points": 40, "text": "What are you most grateful for from this past year?" }
+            ]
+        },
+        {
+            "name": "Resolutions",
+            "questions": [
+                { "points": 10, "text": "Activity: Share one resolution you're making for 2025" },
+                { "points": 20, "text": "What's a resolution you kept from last year?" },
+                { "points": 30, "text": "Activity: Everyone writes down a resolution and guesses who wrote what" },
+                { "points": 40, "text": "What's the most creative resolution you've ever made?" }
+            ]
+        },
+        {
+            "name": "Celebrations",
+            "questions": [
+                { "points": 10, "text": "Activity: Everyone does their best party horn impression!" },
+                { "points": 20, "text": "What's your ideal way to celebrate New Year's Eve?" },
+                { "points": 30, "text": "Activity: Share your favorite New Year's Eve memory" },
+                { "points": 40, "text": "What makes a perfect New Year's celebration for you?" }
+            ]
+        },
+        {
+            "name": "Fun Activities",
+            "questions": [
+                { "points": 10, "text": "Activity: Everyone must sing a line from a song with 'new' or 'year' in it" },
+                { "points": 20, "text": "Activity: Play a round of 'Two Truths and a Lie' about 2024" },
+                { "points": 30, "text": "Activity: Everyone shares their prediction for 2025" },
+                { "points": 40, "text": "Activity: Group photo with your best New Year's pose!" }
+            ]
+        }
+    ]
+}
+
+
