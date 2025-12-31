@@ -1,28 +1,28 @@
-Kategori 1
-Nivå 1 -
+Kategori 1 - Spel
+Nivå 1 - Mimeleiken
 Nivå 2 - Dagens Timeguessr
 Nivå 3 - Ubongo
-Nivå 4 -
+Nivå 4 - Two Truths One Lie
 
-Kategori 2
+Kategori 2 - 2025
+Nivå 1 - Hvis du multipliserer alle sifrene i 2025 med hverandre, hva får du?
+Nivå 2 - Hva blir 2025 i romertal?
+Nivå 3 - Var 2025 et skuddår?
+Nivå 4 - Hvis du reverserer sifrene i 2025 og legger det til det opprinnelige tallet, hva får du? Og hva kaller man den typen tall en får?
+
+Kategori 3 - Norsk Historie
+Nivå 1 - Hvilken norsk oppdager er kjent for å ha nådd Sørpolen først?
+Nivå 2 - I hvilket år ble Norge invadert av Tyskland under andre verdenskrig?
+Nivå 3 - Hvilke av disse skjedde i 1967: Nidagerskrigen i Sudan, folketrygden innføres i Norge, NASA blir opprettet eller pingviner ble oppdaget som art?
+Nivå 4 - I hvilket år ble Olav den hellige drept i slaget ved Stiklestad?
+
+Kategori 4 - Per lager
 Nivå 1
 Nivå 2
 Nivå 3
 Nivå 4
 
-Kategori 3
-Nivå 1
-Nivå 2
-Nivå 3
-Nivå 4
-
-Kategori 4 - Per
-Nivå 1
-Nivå 2
-Nivå 3
-Nivå 4
-
-Kategori 5 - Per
+Kategori 5 - Per lager
 Nivå 1
 Nivå 2
 Nivå 3

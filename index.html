@@ -16,11 +16,11 @@
             
             <div class="board-container">
                 <div class="categories-row">
-                    <div class="category-header" data-category="0">New Year Traditions</div>
-                    <div class="category-header" data-category="1">2024 Highlights</div>
-                    <div class="category-header" data-category="2">Resolutions</div>
-                    <div class="category-header" data-category="3">Celebrations</div>
-                    <div class="category-header" data-category="4">Fun Activities</div>
+                    <div class="category-header" data-category="0">Games</div>
+                    <div class="category-header" data-category="1">2025</div>
+                    <div class="category-header" data-category="2">Norsk Historie</div>
+                    <div class="category-header" data-category="3">Per lager</div>
+                    <div class="category-header" data-category="4">Per lager</div>
                 </div>
                 
                 <div class="board">
@@ -41,7 +41,14 @@
                 <div class="question-content">
                     <h2 id="question-text"></h2>
                 </div>
-                <button id="back-btn" class="back-btn">← Back to Board</button>
+                <div id="answer-section" class="answer-section hidden">
+                    <div class="answer-label">Answer:</div>
+                    <div id="answer-text" class="answer-text"></div>
+                </div>
+                <div class="question-actions">
+                    <button id="show-answer-btn" class="show-answer-btn hidden">Show Answer</button>
+                    <button id="back-btn" class="back-btn">← Back to Board</button>
+                </div>
             </div>
         </div>
     </div>

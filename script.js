@@ -97,15 +97,41 @@ function showQuestion(category, level) {
     
     const question = gameData.categories[category].questions[level];
     const categoryName = gameData.categories[category].name;
+    const isActivity = gameData.categories[category].isActivity || false;
     
     // Update question view
     document.querySelector('.category-name').textContent = categoryName;
     document.querySelector('.question-header .point-value').textContent = question.points;
     document.getElementById('question-text').textContent = question.text;
     
+    // Handle answer section
+    const answerSection = document.getElementById('answer-section');
+    const showAnswerBtn = document.getElementById('show-answer-btn');
+    const answerText = document.getElementById('answer-text');
+    
+    if (isActivity || !question.answer || question.answer === '') {
+        // Hide answer section for activities
+        answerSection.classList.add('hidden');
+        showAnswerBtn.classList.add('hidden');
+    } else {
+        // Show answer button for quiz questions
+        answerSection.classList.add('hidden');
+        showAnswerBtn.classList.remove('hidden');
+        answerText.textContent = question.answer;
+    }
+    
     // Switch views
     document.getElementById('board-view').classList.remove('active');
     document.getElementById('question-view').classList.add('active');
+}
+
+// Show answer
+function showAnswer() {
+    const answerSection = document.getElementById('answer-section');
+    const showAnswerBtn = document.getElementById('show-answer-btn');
+    
+    answerSection.classList.remove('hidden');
+    showAnswerBtn.classList.add('hidden');
 }
 
 // Show board view
@@ -131,6 +157,9 @@ function setupEventListeners() {
     
     // Reset button
     document.getElementById('reset-btn').addEventListener('click', resetGame);
+    
+    // Show answer button
+    document.getElementById('show-answer-btn').addEventListener('click', showAnswer);
 }
 
 // Initialize when DOM is ready

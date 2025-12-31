@@ -1,48 +1,53 @@
 {
     "categories": [
         {
-            "name": "New Year Traditions",
+            "name": "Games",
+            "isActivity": true,
             "questions": [
-                { "points": 10, "text": "What do people traditionally do at midnight on New Year's Eve?" },
-                { "points": 20, "text": "Activity: Share your favorite New Year's tradition with the group" },
-                { "points": 30, "text": "Which country is famous for eating 12 grapes at midnight?" },
-                { "points": 40, "text": "Activity: Everyone must do a New Year's dance move!" }
+                { "points": 10, "text": "Mimeleiken", "answer": "" },
+                { "points": 20, "text": "Two Truths One Lie (alle gjetter, om majoriteten gjetter feil, får en 20 poeng)", "answer": "" },
+                { "points": 30, "text": "Ubongo", "answer": "" },
+                { "points": 40, "text": "Dagens Timeguessr (1 poeng per 1000 i score)", "answer": "" }
             ]
         },
         {
-            "name": "2024 Highlights",
+            "name": "2025",
+            "isActivity": false,
             "questions": [
-                { "points": 10, "text": "Activity: Share your biggest achievement from 2024" },
-                { "points": 20, "text": "What was the most memorable moment of 2024 for you?" },
-                { "points": 30, "text": "Activity: Tell a funny story from 2024" },
-                { "points": 40, "text": "What are you most grateful for from this past year?" }
+                { "points": 10, "text": "Hvis du multipliserer alle sifrene i 2025 med hverandre, hva får du?", "answer": "0 (fordi 2 × 0 × 2 × 5 = 0 - null-tallet gjør hele produktet til null)" },
+                { "points": 20, "text": "Hva blir 2025 i romertal?", "answer": "MMXXV" },
+                { "points": 30, "text": "Var 2025 et skuddår?", "answer": "Nei, 2025 er ikke et skuddår. Det siste skuddåret var 2024, og neste skuddår er 2028." },
+                { "points": 40, "text": "Hvis du reverserer sifrene i 2025 og legger det til det opprinnelige tallet, hva får du? Og hva kaller man den typen tall en får?", "answer": "2025 + 5202 = 7227. Dette er et palindromtall (leses likt begge veier - 7227 leses likt fra venstre og høyre)" }
             ]
         },
         {
-            "name": "Resolutions",
+            "name": "Historie",
+            "isActivity": false,
             "questions": [
-                { "points": 10, "text": "Activity: Share one resolution you're making for 2025" },
-                { "points": 20, "text": "What's a resolution you kept from last year?" },
-                { "points": 30, "text": "Activity: Everyone writes down a resolution and guesses who wrote what" },
-                { "points": 40, "text": "What's the most creative resolution you've ever made?" }
+                { "points": 10, "text": "Hvilken norsk oppdager er kjent for å ha nådd Sørpolen først?", "answer": "Roald Amundsen. Han nådde Sørpolen 14. desember 1911, en måned før Robert Falcon Scott." },
+                { "points": 20, "text": "I hvilket år ble Norge invadert av Tyskland under andre verdenskrig?", "answer": "1940 (9. april 1940)" },
+                { "points": 30, "text": "Hvilke av disse skjedde i 1967: Nidagerskrigen i Sudan, folketrygden innføres i Norge, NASA blir opprettet eller pingviner ble oppdaget som art?", "answer": "Folketrygden innføres i Norge. Den ble innført 1. januar 1967. Nidagerskrigen i Sudan finnes ikke, NASA ble opprettet i 1958, og pingviner ble oppdaget som art mye tidligere." },
+                { "points": 40, "text": "I hvilket år ble Olav den hellige drept i slaget ved Stiklestad?", "answer": "1030" }
             ]
         },
         {
-            "name": "Celebrations",
+            "name": "Per lager",
+            "isActivity": false,
             "questions": [
-                { "points": 10, "text": "Activity: Everyone does their best party horn impression!" },
-                { "points": 20, "text": "What's your ideal way to celebrate New Year's Eve?" },
-                { "points": 30, "text": "Activity: Share your favorite New Year's Eve memory" },
-                { "points": 40, "text": "What makes a perfect New Year's celebration for you?" }
+                { "points": 10, "text": "", "answer": "" },
+                { "points": 20, "text": "", "answer": "" },
+                { "points": 30, "text": "", "answer": "" },
+                { "points": 40, "text": "", "answer": "" }
             ]
         },
         {
-            "name": "Fun Activities",
+            "name": "Per lager",
+            "isActivity": false,
             "questions": [
-                { "points": 10, "text": "Activity: Everyone must sing a line from a song with 'new' or 'year' in it" },
-                { "points": 20, "text": "Activity: Play a round of 'Two Truths and a Lie' about 2024" },
-                { "points": 30, "text": "Activity: Everyone shares their prediction for 2025" },
-                { "points": 40, "text": "Activity: Group photo with your best New Year's pose!" }
+                { "points": 10, "text": "", "answer": "" },
+                { "points": 20, "text": "", "answer": "" },
+                { "points": 30, "text": "", "answer": "" },
+                { "points": 40, "text": "", "answer": "" }
             ]
         }
     ]
