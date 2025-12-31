@@ -1,13 +1,13 @@
 {
     "categories": [
         {
-            "name": "Games",
-            "isActivity": true,
+            "name": "Nyhetsbildet",
+            "isActivity": false,
             "questions": [
-                { "points": 10, "text": "Mimeleiken", "answer": "" },
-                { "points": 20, "text": "Two Truths One Lie (alle gjetter, om majoriteten gjetter feil, får en 20 poeng)", "answer": "" },
-                { "points": 30, "text": "Ubongo", "answer": "" },
-                { "points": 40, "text": "Dagens Timeguessr (1 poeng per 1000 i score)", "answer": "" }
+                { "points": 10, "text": "Kva heiter den veldig sinte bergenseren som var med i debatt på Gutta?", "answer": "Gyda Oddekalv" },
+                { "points": 20, "text": "Kva er navnet til regjerande dart verdensmester?", "answer": "Luke Littler" },
+                { "points": 30, "text": "Kva er etternavnet til den nyvalgte New York ordføreren?", "answer": "Mamdani (Zohran Mamdani)" },
+                { "points": 40, "text": "Kva er navnet på Time Magazine sin Person of the Year 2025?", "answer": "The Architects of AI" }
             ]
         },
         {
@@ -31,23 +31,23 @@
             ]
         },
         {
-            "name": "Per lager",
+            "name": "Nyttår",
             "isActivity": false,
             "questions": [
-                { "points": 10, "text": "", "answer": "" },
-                { "points": 20, "text": "", "answer": "" },
-                { "points": 30, "text": "", "answer": "" },
-                { "points": 40, "text": "", "answer": "" }
+                { "points": 10, "text": "Hvem ble utnevnt til ny president i Russland nyttårsaften 1999?", "answer": "Vladimir Putin" },
+                { "points": 20, "text": "Hvilket klokkeslett sendes kongens nyttårstale på TV?", "answer": "19:30" },
+                { "points": 30, "text": "Kva dyr representerer kinesisk nyttår i 2026?", "answer": "Hest (flammehest)" },
+                { "points": 40, "text": "Kva land har en tradisjon for å knuse tallerkener på nyttårsaften?", "answer": "Danmark" }
             ]
         },
         {
-            "name": "Per lager",
-            "isActivity": false,
+            "name": "Games",
+            "isActivity": true,
             "questions": [
-                { "points": 10, "text": "", "answer": "" },
-                { "points": 20, "text": "", "answer": "" },
-                { "points": 30, "text": "", "answer": "" },
-                { "points": 40, "text": "", "answer": "" }
+                { "points": 10, "text": "Mimeleiken (10 poeng om det blir gjettet innen 60 sekunder)", "answer": "" },
+                { "points": 20, "text": "Two Truths One Lie (alle gjetter, om majoriteten gjetter feil, får en 20 poeng)", "answer": "" },
+                { "points": 30, "text": "Ubongo", "answer": "" },
+                { "points": 40, "text": "Dagens Timeguessr (1 poeng per 1000 i score)", "answer": "" }
             ]
         }
     ]

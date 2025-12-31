@@ -104,6 +104,25 @@ function showQuestion(category, level) {
     document.querySelector('.question-header .point-value').textContent = question.points;
     document.getElementById('question-text').textContent = question.text;
     
+    // Handle image for Ubongo
+    const questionContent = document.querySelector('.question-content');
+    let existingImage = questionContent.querySelector('.question-image');
+    if (question.text === 'Ubongo') {
+        if (!existingImage) {
+            const img = document.createElement('img');
+            img.src = 'ubongo.jpg';
+            img.alt = 'Ubongo';
+            img.className = 'question-image';
+            questionContent.appendChild(img);
+        } else {
+            existingImage.style.display = 'block';
+        }
+    } else {
+        if (existingImage) {
+            existingImage.style.display = 'none';
+        }
+    }
+    
     // Handle answer section
     const answerSection = document.getElementById('answer-section');
     const showAnswerBtn = document.getElementById('show-answer-btn');
